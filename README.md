@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-> We started developing the web in June 2016.🖥️
+> We started developing the web in June 2016.🖥️ <br>
 > After I quit my job, I am currently looking for a job and studying at the same time.📚
 
 
