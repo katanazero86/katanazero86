@@ -3,7 +3,14 @@
 > We started developing the web in June 2016.🖥️ <br>
 > After I quit my job, I am currently looking for a job and studying at the same time.📚
 
+--- 
 
+> This git repository is being used to manage technologies related to the front end.(vue.js,react.js,node.js,etc)🏆
+
+---
+
+> my blog : https://velog.io/@katanazero86 <br>
+> The contents in my blog are written in Korean.😓
 
 <!--
 **katanazero86/katanazero86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
