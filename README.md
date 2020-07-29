@@ -5,7 +5,7 @@
 
 --- 
 
-> This git repository is being used to manage technologies related to the front end.(vue.js,react.js,node.js,etc)🏆
+> This git repository is being used to manage technologies related to the front-end.(vue.js,react.js,node.js,etc)🏆
 
 ---
 
