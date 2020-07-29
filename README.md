@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+> We started developing the web in June 2016.🖥️
+After I quit my job, I am currently looking for a job and studying at the same time.📚
+
+
+
 <!--
 **katanazero86/katanazero86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
