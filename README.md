@@ -9,7 +9,7 @@
 
 ---
 
-> my blog : https://velog.io/@katanazero86 <br>
+> my blog : https://medium.com/@zero86 <br>
 > The contents in my blog are written in Korean.😓
 
 <!--
