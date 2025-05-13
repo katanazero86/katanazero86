@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I’m Changhyun Bae, a software engineer who started out as a backend developer in June 2016 and later transitioned into frontend development.   
-My first step into frontend was through projects using Vue and Nuxt.js. Sometimes I still miss Vue’s single-file component structure and its intuitive two-way binding.   
+I’m Changhyun Bae, a software engineer who started out as a backend developer in June 2016 and later transitioned into frontend development. My first step into frontend was through projects using Vue and Nuxt.js. Sometimes I still miss Vue’s single-file component structure and its intuitive two-way binding.   
 These days, I primarily work with the React ecosystem.   
 I also worked as a frontend instructor at a coding bootcamp. Sharing my knowledge with students and watching them grow was an incredibly rewarding experience — and it helped me grow alongside them.
 
