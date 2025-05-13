@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-> We started developing the web in June 2016.🖥️ <br>
-> After leaving the company, I am currently looking for a job and studying react.js and front-end technology.📚
+I’m Changhyun Bae, a software engineer who began my career as a backend developer in June 2016 and later transitioned into frontend development.    
+My journey into the frontend world started with building web services using Vue and Nuxt.js, and has since expanded to a broader React-based tech stack. I also have experience as a lead frontend instructor at a coding bootcamp, where I shared my knowledge and passion for creating intuitive user experiences.
 
---- 
-
-> This git repository is being used to manage technologies related to the front-end.(vue.js,react.js,node.js,etc)🏆
+If you're interested in my work or thoughts on frontend development, feel free to check out my tech blog below!
 
 ---
 
